@@ -38,12 +38,17 @@ To create an AI module capable of:
 ## 📁 Repository Structure
 📂 integrity-emotional-module/
 ├── README.md
+
 ├── LICENSE
+
 ├── abstract/
 │ └── abstract.md
+
 ├── data_structure/
 │ └── clustering_model.md
+
 ├── ethical_use.md
+
 ├── usage/
 │ └── integration_notes.md
 └── examples/
