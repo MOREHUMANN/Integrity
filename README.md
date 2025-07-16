@@ -70,7 +70,7 @@ This repository outlines the **Emotional Intelligence Module** of the Integrity 
 
 ---
 
-### 📂 `models/` – AI & Training Modules *(optional, placeholder)*
+### 📂 `models/` – AI & Training Modules 
 
 | File/Folder          | Description |
 |-----------------------|-------------|
@@ -91,7 +91,7 @@ This repository outlines the **Emotional Intelligence Module** of the Integrity 
 
 ---
 
-### 📂 `docs/` – Extended Documentation *(Optional, grows later)*
+### 📂 `docs/` – Extended Documentation 
 
 | File/Folder         | Description |
 |----------------------|-------------|
@@ -101,7 +101,7 @@ This repository outlines the **Emotional Intelligence Module** of the Integrity 
 
 ---
 
-### ✅ Future Extensions (Optional folders to add later)
+### ✅ Future Extensions 
 
 - `tests/`: Unit and functional tests.
 - `datasets/`: Processed or sample data.
